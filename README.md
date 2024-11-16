@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @icgurney
 - 👀 I’m interested in node
-- 🌱 I’m currently learning k8s
-- 💞️ I’m looking to collaborate on oss
+- 🌱 I’m currently learning go
+- 💪 I'm building a workout app
