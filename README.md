@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @icgurney
-- 👀 I’m interested in node
+- 👀 I’m interested in distributed systems
 - 🌱 I’m currently learning go
-- 💪 I'm building a workout app
+- 💪 I'm building a disposable email app
